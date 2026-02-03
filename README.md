@@ -21,9 +21,9 @@ Purple &amp; Pink i3wm Rice for CachyOS.
 
 1. Install all dependencies, open your terminal and run this command to install everything you need (i3, polybar, picom, kitty, and tools):
    ```bash
-   sudo pacman -S polybar kitty btop cava fastfetch unzip rofi flameshot feh ttf-jetbrains-mono-nerd
+   sudo pacman -S polybar kitty btop cava fastfetch unzip rofi flameshot feh nm-applet greenclip autotilling thunar ttf-jetbrains-mono-nerd
 
-   yay -S picom-ftlabs-git
+   yay -S picom-ftlabs-git google-chrome-stable
 
 2. Clone and extract repository
    ```bash
