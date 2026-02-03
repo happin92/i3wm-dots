@@ -3,7 +3,7 @@ Purple &amp; Pink i3wm Rice for CachyOS.
 
 # 💜 Purple Neon i3wm
 
-
+![Preview](image.png)
 
 ---
 
