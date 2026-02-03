@@ -1,7 +1,20 @@
 # i3wm-dots
 Purple &amp; Pink i3wm Rice for CachyOS.
 
-## 📦 How to install
-1. Download `config.zip` from this repo.
-2. Unzip it: `config.zip -d ~/.config/`
-3. Reload i3 "i3-msg reload"
+# 💜 Purple Neon i3wm
+
+### 🎥 Видео (как это выглядит в движении)
+https://github.com/happin92/i3wm-dots/blob/main/showcase.mp4
+
+---
+
+* **Оболочка:** i3wm + autotiling
+* **Панель:** Polybar (тема Blocks)
+* **Эффекты:** Picom by ftlabs
+* **Терминал:** Kitty
+* **Утилиты:** CAVA, Btop
+
+1. Качаешь `my_dots.zip` из этого репозитория.
+2. Распаковываешь всё в конфиги:
+   ```bash
+   unzip my_dots.zip -d ~/.config/
