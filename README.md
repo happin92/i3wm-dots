@@ -11,7 +11,7 @@ Purple &amp; Pink i3wm Rice for CachyOS.
 
 **wm**: i3wm + autotiling
 
-**bar**: Polybar (тема Blocks)
+**bar**: Polybar (blocks)
 
 **comp**: Picom by ftlabs
 
