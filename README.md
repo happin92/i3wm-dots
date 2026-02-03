@@ -7,11 +7,11 @@ Purple &amp; Pink i3wm Rice for CachyOS.
 
 ---
 
-* **Оболочка:** i3wm + autotiling
-* **Панель:** Polybar (тема Blocks)
-* **Эффекты:** Picom by ftlabs
-* **Терминал:** Kitty
-* **Утилиты:** CAVA, Btop
+wm: i3wm + autotiling
+bar: Polybar (тема Blocks)
+comp: Picom by ftlabs
+terminal: Kitty
+tools: CAVA, Btop
 
 1. Качаешь `my_dots.zip` из этого репозитория.
 2. Распаковываешь всё в конфиги:
